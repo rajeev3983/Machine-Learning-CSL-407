@@ -1,0 +1,1 @@
+1) Run the Question1.m and Question3.m files for Question 1 and Question 3 respectively. You will have to make changes in the code for changing the degree and lambda. The default degree 3 and the default lambda is 0.1.
